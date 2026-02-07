@@ -70,6 +70,12 @@ Through this project, I practiced:
 - Improving UI cloning and design accuracy
 
 ---
+## Link
+
+Link to the Page - https://cursor-landing-page-clone-eight.vercel.app/
+
+
+---
 
 ## ⚠️ Disclaimer
 
@@ -82,3 +88,7 @@ It is **not affiliated with or endorsed by Cursor or Anysphere Inc.**
 
 If you have suggestions or improvements, feel free to open an issue or share feedback.  
 Star ⭐ the repo if you found it helpful!
+
+
+
+
