@@ -37,10 +37,6 @@ No JavaScript or external libraries were used.
 
 ---
 
-> Image assets include logos, brand banners, testimonials avatars, and UI previews used across sections.
-
----
-
 ## ✨ Features
 
 - Clean and modern dark UI
@@ -95,6 +91,7 @@ It is **not affiliated with or endorsed by Cursor or Anysphere Inc.**
 
 If you have suggestions or improvements, feel free to open an issue or share feedback.  
 Star ⭐ the repo if you found it helpful!
+
 
 
 
