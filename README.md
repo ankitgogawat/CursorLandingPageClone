@@ -52,10 +52,17 @@ No JavaScript or external libraries were used.
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
+Below are screenshots of the landing page
+<img width="1363" height="589" alt="image" src="https://github.com/user-attachments/assets/bd303829-135d-4ec5-8a88-3d688442834a" />
+<img width="1359" height="505" alt="image" src="https://github.com/user-attachments/assets/fc853c0b-3f87-47f9-ab5e-11e61e400ae5" />
+<img width="1334" height="504" alt="image" src="https://github.com/user-attachments/assets/00840e7f-778c-413b-99c4-2584775b2613" />
+<img width="1366" height="612" alt="image" src="https://github.com/user-attachments/assets/a48a88ca-69dd-4eb0-a783-9a7a460fd02b" />
 
-> This is a **UI clone project** built for learning and practice purposes only.  
-> All images and branding belong to their respective owners.
+
+
+
+
 
 ---
 
@@ -70,7 +77,7 @@ Through this project, I practiced:
 - Improving UI cloning and design accuracy
 
 ---
-## Link
+##  Link
 
 Link to the Page - https://cursor-landing-page-clone-eight.vercel.app/
 
@@ -88,6 +95,7 @@ It is **not affiliated with or endorsed by Cursor or Anysphere Inc.**
 
 If you have suggestions or improvements, feel free to open an issue or share feedback.  
 Star ⭐ the repo if you found it helpful!
+
 
 
 
