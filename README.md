@@ -27,11 +27,11 @@ The goal of this project was to practice **advanced HTML structure**, **modern C
 
 - **HTML5**
 - **CSS3**
-  - Flexbox
-  - CSS Grid
-  - Gradients
-  - Responsive spacing
-  - Custom typography
+- **Flexbox**
+- **CSS Grid**
+- **Gradients**
+- **Responsive spacing**
+- **Custom typography**
 
 No JavaScript or external libraries were used.
 
@@ -91,6 +91,7 @@ It is **not affiliated with or endorsed by Cursor or Anysphere Inc.**
 
 If you have suggestions or improvements, feel free to open an issue or share feedback.  
 Star ⭐ the repo if you found it helpful!
+
 
 
 
